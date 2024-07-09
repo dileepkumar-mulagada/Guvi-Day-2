@@ -1,0 +1,25 @@
+1. Write a blog on the difference between document and window objects.
+
+Document Objects :
+
+    * It's like a map of your webpage, showing all the elements like paragraphs, images, and buttons and their relationships.
+    * It Helps you change things inside your webpage—like updating text, tweaking images, or adding new elements.
+    * All about the details inside your webpage—like the words, pictures, and buttons.
+    * It takes charge when you click a button, fill out a form, or interact with things on the webpage.
+    * Lives inside your HTML document, focusing on what's happening within it.
+
+Window Objects :
+
+    * It Think of it as the boss overseeing the entire browser window or tab.
+    * It Takes care of bigger tasks, such as managing the size of the window, handling multiple tabs, or opening new windows.
+    * It Deals with the big picture, looking at the whole browser environment.
+    * It Jumps in for tasks like changing the size of the window, keeping track of where you've been (navigation), or managing time-related actions.
+    * Is like the big boss of the browser, overseeing everything happening in the window or tab.
+
+
+
+
+
+
+
+
